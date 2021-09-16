@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://hoppscotch.io"><img src="https://tiny.cc/hoppscotch_screenshot_1" alt="Screenshot" width="100%"></a>
-</p>
-
 **[Hoppscotch](https://hoppscotch.io) is an open source API development ecosystem.**
 
 1. **Hoppscotch.io** - Open source API development ecosystem.
