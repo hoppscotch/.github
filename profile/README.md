@@ -1,3 +1,22 @@
+<div>
+  <br />
+  <p align="center">
+    <a href="https://github.com/hoppscotch/hoppscotch/discussions/1837">
+      <img
+        src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"
+        alt="Banner"
+        width="75%"
+      />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/hoppscotch/hoppscotch/discussions/1837">
+	    Celebrate Open Source with Hacktoberfest →
+    </a>
+  </p>
+  <br />
+</div>
+
 **[Hoppscotch](https://hoppscotch.io) is an open source API development ecosystem.**
 
 - Used by 500,000+ developers
