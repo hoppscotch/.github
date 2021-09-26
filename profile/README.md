@@ -4,4 +4,4 @@
 - 31,000+ GitHub stars.
 - 21,000+ monthly users.
 
-[**`Web app →`**](https://hoppscotch.io) [**`Repository →`**](https://github.com/hoppscotch/hoppscotch)
+[![Web app](https://img.shields.io/badge/Web%20App%20→-10b981)](https://hoppscotch.io) [![Repository](https://img.shields.io/badge/Repository-666?logo=github)](https://hoppscotch.io)
