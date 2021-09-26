@@ -5,7 +5,7 @@
       <img
         src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg"
         alt="Banner"
-        width="75%"
+        width="60%"
       />
     </a>
   </p>
