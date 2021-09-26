@@ -11,7 +11,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/hoppscotch/hoppscotch/discussions/1837">
-	    Celebrate Open Source with Hacktoberfest →
+      <b>Celebrate Open Source with Hacktoberfest →</b>
     </a>
   </p>
   <br />
