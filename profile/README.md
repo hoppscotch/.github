@@ -1,8 +1,8 @@
 **[Hoppscotch](https://hoppscotch.io) is a community-driven open source API development ecosystem.**
 
-- Used by more than 750,000 developers
+- Used by more than 800,000 developers
 - 40,000+ GitHub stars
-- 50,000+ monthly users
+- 60,000+ monthly users
 
 [![Web app](https://img.shields.io/badge/Web%20App%20➔-2da44e)](https://hoppscotch.io) [![Repository](https://img.shields.io/badge/Repository-555?logo=github)](https://github.com/hoppscotch/hoppscotch)
 
