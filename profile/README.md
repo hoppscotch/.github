@@ -2,7 +2,7 @@
 
 - Used by more than one million developers
 - 42,800+ GitHub stars
-- 65,000+ monthly users
+- 75,000+ monthly users
 
 [![Web app](https://img.shields.io/badge/Web%20App%20➔-2da44e)](https://hoppscotch.io) [![Repository](https://img.shields.io/badge/Repository-555?logo=github)](https://github.com/hoppscotch/hoppscotch)
 
