@@ -4,5 +4,5 @@
 - 53,000+ GitHub stars
 - 100,000+ monthly users
 
-[<kbd> <br> Get Started on Cloud › <br> </kbd>](https://hoppscotch.io)
-[<kbd> <br> Self-Host › <br> </kbd>](https://github.com/hoppscotch/hoppscotch)
+[<kbd> <br> Get Started on Cloud ✨ <br> </kbd>](https://hoppscotch.io)
+[<kbd> <br> Self-Host 🛠️ <br> </kbd>](https://github.com/hoppscotch/hoppscotch)
