@@ -1,7 +1,7 @@
 **Hoppscotch is an end-to-end open-source API development ecosystem.**
 
 - Used by more than 2 million+ developers
-- 70,000+ GitHub stars
+- 72,000+ GitHub stars
 - 100,000+ monthly users
 
 [<kbd> <br> Get Started on Cloud ➜ <br> </kbd>](https://hoppscotch.io) [<kbd> <br> Self-Host ➜ <br> </kbd>](https://docs.hoppscotch.io/documentation/self-host/getting-started)
