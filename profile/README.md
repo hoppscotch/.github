@@ -1,6 +1,6 @@
 **Hoppscotch is an end-to-end open-source API development ecosystem.**
 
-- Used by more than 2 million+ developers
+- Used by more than 2.5 million+ developers
 - 72,000+ GitHub stars
 - 100,000+ monthly users
 
